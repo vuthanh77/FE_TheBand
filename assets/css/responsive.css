@@ -32,5 +32,29 @@
     #header .btn_search {
         display: none;
     }
+    
+    
+    .text-content {
+        display: none;
+    }
+
+    .col-third {
+        width: 100%;
+        margin-bottom: 16px;
+    }
+
+    #content .member-img{
+        width: 60%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .col-half {
+        width: 100%;
+    }
+
+    .contact-info {
+        margin-bottom: 12px;
+    }
 
 }

@@ -16,12 +16,6 @@
 
 /* MOBILE */
 @media (max-width: 740px) {
-
-    #main {
-        width: 100vw;
-        height: 100vh;
-    }
-
     #nav {
         display: block;
     }

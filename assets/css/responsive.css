@@ -17,6 +17,11 @@
 /* MOBILE */
 @media (max-width: 740px) {
 
+    #main {
+        width: 100vw;
+        height: 100vh;
+    }
+
     #nav {
         display: block;
     }
@@ -32,8 +37,7 @@
     #header .btn_search {
         display: none;
     }
-    
-    
+
     .text-content {
         display: none;
     }
@@ -56,5 +60,4 @@
     .contact-info {
         margin-bottom: 12px;
     }
-
 }
